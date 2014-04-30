@@ -38,4 +38,4 @@ Pro-tip: You can use [this project][grip] to render GitHub markdown locally befo
 
 
 [issues]: https://github.com/trynewtech/try-writing-a-story/issues
-[story]: https://github.com/trynewtech/try-writing-a-story/blob/master/story.md#the-story
+[story]: story.md#the-story
