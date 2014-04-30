@@ -23,6 +23,7 @@ To keep the barrier of entry low, we set up a basic story for you to elaborate o
 
 5. Pull from upstream and repeat
 
+Pro-tip: You can use [this project][grip] to render GitHub markdown locally before committing.
 
 ## Guidelines
 
