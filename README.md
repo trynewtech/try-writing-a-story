@@ -29,3 +29,12 @@ To keep the barrier of entry low, we set up a basic story for you to elaborate o
 - Try to add something more often than change something
 - Explore and use [the issues][issues] to coordinate
 - Play nice and have fun!
+
+
+## The story
+
+[Read the latest version here][story].
+
+
+[issues]: https://github.com/trynewtech/try-writing-a-story/issues
+[story]: https://github.com/trynewtech/try-writing-a-story/blob/master/story.md#the-story
