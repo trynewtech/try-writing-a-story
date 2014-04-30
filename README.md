@@ -33,6 +33,15 @@ Pro-tip: You can use [this project][grip] to render GitHub markdown locally befo
 - Play nice and have fun!
 
 
+### Need more help?
+
+Here's another markdown file for additional help with git and GitHub.
+
+It's in the early stages, so please consider helping your peers by contributing.
+
+#### [Quick reference][quick-reference]
+
+
 The story
 ---------
 
@@ -41,4 +50,5 @@ The story
 
 [issues]: https://github.com/trynewtech/try-writing-a-story/issues
 [grip]: https://github.com/joeyespo/grip
+[quick-reference]: quick-reference.md
 [story]: story.md#the-story
