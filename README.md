@@ -30,7 +30,8 @@ Pro-tip: You can use [this project][grip] to render GitHub markdown locally befo
 
 - Try to add something more often than change something
 - Explore and use [the issues][issues] to coordinate
-- Play nice and have fun!
+- Having doubts? Just ship it :shipit:
+- Play nice & have fun!
 
 
 ### Need more help?
