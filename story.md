@@ -8,3 +8,6 @@ It was a dark and stormy night.
 Both because it was Pittsburgh, and because that's a great way to start a story. I think. 
 
 All of a sudden, the power went out in Revv. All wifis were lost. 
+
+What a common way to start a story. It really is a dark and stormy night tonight.
+
